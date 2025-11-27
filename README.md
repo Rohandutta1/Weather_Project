@@ -1,4 +1,4 @@
-# Folder Map Preview (Vite + React)
+# Map Preview (Vite + React)
 
 A minimal Vite + React project that previews a folder map (collapsible tree). Useful as a small demo or base for integrating real file system data.
 
